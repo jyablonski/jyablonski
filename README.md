@@ -1,4 +1,4 @@
-Hi there 👋, I'm Jacob
+hi there 👋, I'm jacob
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jacob_Yablonski-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacobyablonski/)](https://www.linkedin.com/in/jacobyablonski/)
 [![Website Badge](https://img.shields.io/badge/personal_website-90EE90?style=for-the-badge&logoColor=white&link=https://www.jyablonski.dev)](https://www.jyablonski.dev)
