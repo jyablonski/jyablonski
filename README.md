@@ -23,7 +23,7 @@ A production-grade, end-to-end data platform for NBA analytics running 24/7 on A
 
 ### [Lotus Journal App](https://github.com/jyablonski/lotus)
 
-A local-first journaling application with AI-powered sentiment analysis and topic classification. Built with a modern microservices architecture to explore different backend technologies.
+A (currently local-hosted) journaling application with AI-powered sentiment analysis and topic classification. Built with a modern microservices architecture to explore different backend technologies.
 
 **Services:**
 
