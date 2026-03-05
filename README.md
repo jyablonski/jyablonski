@@ -8,7 +8,9 @@ I'm Jacob, a Data Engineer in Southern California. I build data platforms and sp
 
 **[Homelab](https://github.com/jyablonski/homelab)** — HA K3s cluster using Helm, primarily for Home Assistant and whatever else I feel like self-hosting.
 
-**[arc](https://github.com/jyablonski/arc)** — Go CLI tool I built for Arch Linux system management and maintenance tasks.
+**[arc](https://github.com/jyablonski/arc)** — Go CLI tool for Arch Linux system management and maintenance tasks.
+
+**[goarctis](https://github.com/jyablonski/goarctis)** — Go system tray app for monitoring peripherals and other live system information on Arch Linux.
 
 **[Lotus](https://github.com/jyablonski/lotus)** — Full stack journal app monorepo for frontend, backend, and MLOps learning & experimentation.
 
