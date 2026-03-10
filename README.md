@@ -6,7 +6,7 @@ I'm Jacob, a Data Engineer in Southern California. I build data platforms and sp
 
 **[NBA Analytics Platform](https://nbadashboard.jyablonski.dev/)** — End-to-end data project I've maintained for 5+ years. Ingests NBA data, runs dbt transformations, generates ML win predictions, and serves insights via a REST API and dashboard hosted 24/7 on Cloud Architecture.
 
-**[Homelab](https://github.com/jyablonski/homelab)** — HA K3s cluster using Helm, primarily for Home Assistant and whatever else I feel like self-hosting.
+**[Homelab](https://github.com/jyablonski/homelab)** — K3s cluster using Helm + Helmfile, primarily for Home Assistant and whatever else I feel like self-hosting.
 
 **[arc](https://github.com/jyablonski/arc)** — Go CLI tool for Arch Linux system management and maintenance tasks.
 
