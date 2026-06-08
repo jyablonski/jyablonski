@@ -1,6 +1,4 @@
-# Hey 👋
-
-I'm Jacob, a Data Engineer in Southern California. I build data platforms and spend too much time on my computer.
+# 👋 Hey I'm Jacob
 
 ## What I'm Working On
 
