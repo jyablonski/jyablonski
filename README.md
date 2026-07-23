@@ -4,9 +4,9 @@
 
 **[NBA Analytics Platform](https://nbadashboard.jyablonski.dev/)** — End-to-end data project I've maintained for 5+ years. Ingests NBA data, runs dbt transformations, generates ML win predictions, and serves insights via a REST API and dashboard hosted 24/7 on Cloud Architecture.
 
-**[Homelab](https://github.com/jyablonski/homelab)** — K3s cluster using Helm + Helmfile, primarily for Home Assistant and whatever else I feel like self-hosting.
+**[Homelab](https://github.com/jyablonski/homelab)** — Self-hosted K3s cluster managed declaratively with Helm + Helmfile, primarily for Home Assistant to power smart home automation and whatever else I feel like self-hosting.
 
-**[arc](https://github.com/jyablonski/arc)** — Go CLI tool for Arch Linux system management and maintenance tasks.
+**[arc](https://github.com/jyablonski/arc)** — Go CLI tool for Arch Linux + macOS system management, maintenance tasks, and AI tooling (usage tracking, skills sync etc).
 
 **[goarctis](https://github.com/jyablonski/goarctis)** — Go system tray app for monitoring peripherals and other live system information on Arch Linux.
 
